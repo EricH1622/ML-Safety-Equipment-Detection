@@ -1,4 +1,6 @@
-# YOLO Safety Helmet Detection
+# The GUARDIAN 
+## YOLO Safety Equipment Detection Machine Learning Project 
+<br>
 
 ## Onboarding Guide
 - Run `make setup` to setup the development environment, and follow the instructions to setup datasets
